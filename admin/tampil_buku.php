@@ -14,7 +14,7 @@
     ?>
     <div class="container">
     <h1 class= "text-center">Data Buku</h1>
-        <form action="tampil_kelas.php" method="POST">
+        <form action="tampil_buku.php" method="POST">
             <input type="text" name="cari" class="form-control" placeholder="Masukkan Keyword Pencarian">
         </form>
         <table class="table table-light table-striped">
